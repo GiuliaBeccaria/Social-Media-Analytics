@@ -28,3 +28,5 @@ The Code folder includes five notebook files, organized as follows: the first pe
 
 We recommend using the provided data, as the data collection code requires a secret token for the Reddit API. 
 The authors of this project are Giulia Beccaria and Lorenzo Lobosco.
+
+Result: 6.5/8
